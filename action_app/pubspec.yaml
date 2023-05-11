@@ -1,13 +1,11 @@
 name: action_app
 version: 2.0.0
 description: Github action app that helps to run dart_code_metrics in CI/CD flow.
-homepage: https://dartcodemetrics.dev/docs/integrations/github-action
-repository: https://github.com/dart-code-checker/dart-code-metrics-action
-issue_tracker: https://github.com/dart-code-checker/dart-code-metrics-action/issues
+repository: https://github.com/danylo-safonov-solid/dart-code-metrics-action
 publish_to: none
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=2.18.0 <4.0.0"
 
 dependencies:
   actions_toolkit_dart: ^0.5.0

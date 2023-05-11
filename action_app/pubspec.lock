@@ -7,7 +7,7 @@ packages:
       name: _fe_analyzer_shared
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "58.0.0"
+    version: "54.0.0"
   actions_toolkit_dart:
     dependency: "direct main"
     description:
@@ -21,7 +21,7 @@ packages:
       name: analyzer
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "5.10.0"
+    version: "5.6.0"
   analyzer_plugin:
     dependency: transitive
     description:
@@ -112,7 +112,7 @@ packages:
       name: dart_style
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.3.0"
+    version: "2.2.5"
   file:
     dependency: transitive
     description:
@@ -182,7 +182,7 @@ packages:
       name: js
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.6.7"
+    version: "0.6.5"
   json_annotation:
     dependency: transitive
     description:
@@ -259,7 +259,7 @@ packages:
       name: petitparser
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "5.3.0"
+    version: "5.1.0"
   platform:
     dependency: transitive
     description:
@@ -413,7 +413,7 @@ packages:
       name: vm_service
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "11.3.0"
+    version: "11.2.0"
   watcher:
     dependency: transitive
     description:
@@ -450,4 +450,4 @@ packages:
     source: hosted
     version: "3.1.1"
 sdks:
-  dart: ">=2.19.0 <3.0.0"
+  dart: ">=2.18.0 <3.0.0"
