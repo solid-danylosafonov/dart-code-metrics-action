@@ -95,10 +95,12 @@ packages:
   dart_code_metrics:
     dependency: "direct main"
     description:
-      name: dart_code_metrics
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "5.7.2"
+      path: "."
+      ref: master
+      resolved-ref: "2e8f548153a9b354b647af53946e0a4c034fc250"
+      url: "https://github.com/danylo-safonov-solid/dart-code-metrics.git"
+    source: git
+    version: "5.7.4"
   dart_code_metrics_presets:
     dependency: transitive
     description:
@@ -294,7 +296,7 @@ packages:
       name: pub_updater
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.4"
+    version: "0.3.0"
   shelf:
     dependency: transitive
     description:
