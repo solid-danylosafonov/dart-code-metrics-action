@@ -2,6 +2,8 @@ FROM dart:stable
 
 COPY action_app/ /action_app/
 
+RUN /bin/sh -c set -eux;
+
 RUN cd /action_app \
     && dart pub get
 
